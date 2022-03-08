@@ -1,0 +1,32 @@
+_repo: Kennisleer-contra-Materie-Realisme-Bijdrage-tot-Kritiek-en-KANTbegrip_67499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Polak, Leo
+    aliases:
+    - Polak, L. (Leo)
+    - Polak, Leonard
+    birthdate: 1880
+    deathdate: 1941
+    gutenberg_agent_id: '44614'
+    url: http://www.gutenberg.org/2009/agents/44614
+description: ''
+gutenberg_issued: '2022-02-25'
+identifiers:
+  gutenberg: '67499'
+language: nl
+pgterms:marc904: https://archive.org/details/kennisleercontra00pola
+pgterms:marc905: 20160207024713polak
+pgterms:marc906: '1912'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: Netherlands :W. Versluys,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kennisleer contra Materie-Realisme: Bijdrage tot „Kritiek” en KANTbegrip'
+url: http://www.gutenberg.org/ebooks/67499
