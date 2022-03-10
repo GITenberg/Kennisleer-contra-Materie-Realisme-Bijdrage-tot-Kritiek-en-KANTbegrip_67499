@@ -1,5 +1,8 @@
 _repo: Kennisleer-contra-Materie-Realisme-Bijdrage-tot-Kritiek-en-KANTbegrip_67499
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67499-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Polak, Leo
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '44614'
     url: http://www.gutenberg.org/2009/agents/44614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67499#Kennisleer-contra-Materie-Realisme-Bijdrage-tot-Kritiek-en-KANTbegrip
 gutenberg_issued: '2022-02-25'
 identifiers:
   gutenberg: '67499'
